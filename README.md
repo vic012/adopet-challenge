@@ -1,13 +1,13 @@
-# Nome do meu projeto
+# Adopet
 
-Rápida descrição do objetivo de fazer esse projeto
+Plataforma que conecta pessoas interessadas em pets.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :sparkles: Nome        | **Adopet**
+| :label: Tecnologias | Python
 | :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :fire: Desafio     | https://www.alura.com.br/challenges/back-end-6
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
