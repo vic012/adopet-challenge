@@ -4,9 +4,7 @@ from sqlalchemy.orm import Session
 
 import crud, models, schemas
 import validators
-from db.database import SessionLocal, engine
 
-models.Base.metadata.create_all(bind=engine)
 
 aplication = FastAPI(
 	title="Adopet API",
@@ -15,7 +13,7 @@ aplication = FastAPI(
 
 #Session
 def get_db():
-	db = SessionLocal()
+	db = models.SessionLocal()
 	try:
 		yield db
 	finally:
